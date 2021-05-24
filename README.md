@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi, I’m @lucasmarcelz</h1>
 
 - 👀 I’m interested in Game Development
-- 🌱 I’m currently learning PyGame Framework
+- 🌱 I’m currently learning Python
 - 📫 How to reach me lucasmarcelz@gmail.com
 
 <!---
