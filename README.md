@@ -2,7 +2,7 @@
 
 - 📚 I'm currently studying Computer Science on Federal Institute of Southern Minas Gerais
 - 🌱 Constantly searching for improvement
-- 🎮 Big interested in Software Development
+- 🔧 Big interested in Back-End Development
 - 📫 How to reach me lucasmarcelz@gmail.com
 
 
